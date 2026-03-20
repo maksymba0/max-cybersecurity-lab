@@ -1,6 +1,9 @@
 Date: 20/03/2026
+
 Tools: Dota 2, Wireshark,  whatismyipaddress.com
+
 Objective: Analyze and investigate Dota 2's network traffic. 
+
 
 Tasks:
 
@@ -17,6 +20,7 @@ Tasks:
 6. Obtaining the IP address which belongs to Valve  and used for communicating with client's side
 
 7. Used IP lookup to confirm the server belongs to Valve (whatismyipaddress.com)
+
 
 
 Results:
