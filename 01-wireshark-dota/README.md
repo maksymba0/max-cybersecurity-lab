@@ -18,3 +18,4 @@ Learning to identify normal vs abnormal traffic patterns.
 - [Day 1-2: Capture & Server Discovery](day1-2.md)
 - [Day 3-4: UDP Streams & Packet Sizes](day3-4.md)
 - [Day 5-6: Statistics, conversations, endpoints, I/O Graphs](day5-6.md)
+- [Day 7-8: DNS, Dota DNS observations](day7-8.md)
