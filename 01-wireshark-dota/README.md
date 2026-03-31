@@ -21,3 +21,6 @@ Learning to identify normal vs abnormal traffic patterns.
 - [Day 7-8: DNS, Dota DNS observations](day7-8.md)
 - [Day 7-8: DNS, Dota DNS observations](day7-8.md)
 - [Day 9: HTTP, HTTPS traffic](day9.md)
+- [Day 10-11: ARP observation, ARP spoofing](day10-11.md)
+- [Day 12: DNS tools (dig/resolvectl) ](day12.md)
+- [Day 13-14: Reconnaissance, DNS enumeration + Port scanning of Target VM, Wireshark](day13-14.md)
