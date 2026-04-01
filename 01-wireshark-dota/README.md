@@ -24,3 +24,4 @@ Learning to identify normal vs abnormal traffic patterns.
 - [Day 10-11: ARP observation, ARP spoofing](day10-11.md)
 - [Day 12: DNS tools (dig/resolvectl) ](day12.md)
 - [Day 13-14: Reconnaissance, DNS enumeration + Port scanning of Target VM, Wireshark](day13-14.md)
+- [Day 15: Analyze a port scan capture to understand TCP handshake patterns.](day15.md)
