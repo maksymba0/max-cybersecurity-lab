@@ -1,5 +1,7 @@
 # 03/04/2026 - Malware Traffic Analysis
 
+**Objective:** Analyze simulated malware network behavior
+
 **Observation:**
 - Attacker (192.168.100.20) initiated connection to Target (192.168.100.10:4444)
 - Payload contained plain text: "HELLO C2 SERVER"
