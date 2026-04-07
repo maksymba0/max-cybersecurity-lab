@@ -26,3 +26,6 @@ Learning to identify normal vs abnormal traffic patterns.
 - [Day 15: Analyze a port scan capture to understand TCP handshake patterns.](day15.md)
 - [Day 16: Simulate and detect a brute force attack on FTP](day16.md)
 - [Day 17: Analyze simulated malware network behavior](day17.md)
+- [Day 18: Review logs from previous labs](day18.md)
+- [Day 19: Incident Timeline - Simulated Attack](day19.md)
+- [Day 20: Analyze public PCAP for signs of malware infection](day20.md)
