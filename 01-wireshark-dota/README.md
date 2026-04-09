@@ -29,3 +29,4 @@ Learning to identify normal vs abnormal traffic patterns.
 - [Day 18: Review logs from previous labs](day18.md)
 - [Day 19: Incident Timeline - Simulated Attack](day19.md)
 - [Day 20: Analyze public PCAP for signs of malware infection](day20.md)
+- [Day 21: Analyze public PCAP from malware-traffic-analysis.net (2023-06-05) to identify signs of Formbook (XLoader) infection.](day21.md)
