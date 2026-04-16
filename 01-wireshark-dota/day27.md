@@ -53,8 +53,8 @@ sudo cat /etc/ssh/sshd_config | grep PermitRootLogin
 
 Recommended hardening for any SSH server:
 
-|Setting|Value|Why|
-|-------|---------|
+| Setting | Value | Why |
+|---------|-------|-----|
 |PermitRootLogin	|no or prohibit-password|	Prevent password brute force on root|
 |PasswordAuthentication|	no	|Require SSH keys for all users|
 |AllowUsers|	Specific usernames|	Limit who can log in|
