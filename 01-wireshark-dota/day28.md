@@ -20,8 +20,8 @@
 Verified SSH was running on Target, then used `ssh -b 192.168.100.20 root@192.168.100.10` to bind to the correct interface.
 
 <img width="1855" height="557" alt="Screenshot 2026-04-17 195548" src="https://github.com/user-attachments/assets/001ecdee-0306-4218-8a6a-9b8f5e7491f7" />
-**Result:**  
-Connection established. Password prompt appeared. Incorrect password returned `Permission denied`.
+**Result**:  
+Connection established. Password prompt appeared. Returned `Permission denied` error.
 <img width="724" height="108" alt="Screenshot 2026-04-17 195618" src="https://github.com/user-attachments/assets/3a8bceba-1a61-4cce-b03b-c64e7f08f308"/>
 <img width="1517" height="101" alt="Screenshot 2026-04-17 195630" src="https://github.com/user-attachments/assets/f10ce2c0-cd61-4edc-a682-f6d4bf49b062" />
 
