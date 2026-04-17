@@ -74,4 +74,11 @@ SSH (Secure Shell) is a protocol for encrypted remote access to a computer over 
 
 Log file: `/var/log/auth.log`
 <img width="1568" height="134" alt="Screenshot 2026-04-17 195811" src="https://github.com/user-attachments/assets/3890b576-a67e-45ea-8e32-28bfa53a4a1c" />
- 
+
+**What I Learned**:
+- SSH uses encryption — passwords are never visible in Wireshark
+- TCP retransmissions indicate a connection problem (not a security issue)
+- Permission denied means wrong password or login disabled
+- Root password login is disabled by default on Ubuntu (prohibit-password)
+- auth.log is the primary source for detecting SSH brute force attacks
+- Hardening SSH (disabling root login, using keys) prevents many attacks
